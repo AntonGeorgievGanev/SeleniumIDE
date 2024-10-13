@@ -104,3 +104,4 @@ F:\Java programing\DevOps\tasks\github actions-exrcise\05-SeleniumIDE\2-Selenium
 F:\Java programing\DevOps\tasks\github actions-exrcise\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\System.Text.Encodings.Web.dll
 F:\Java programing\DevOps\tasks\github actions-exrcise\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\System.Text.Json.dll
 F:\Java programing\DevOps\tasks\github actions-exrcise\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+F:\Java programing\DevOps\tasks\github actions-exrcise\05-SeleniumIDE\2-SeleniumIDE\SeleniumIDE\obj\Debug\net6.0\SeleniumIde.sourcelink.json
