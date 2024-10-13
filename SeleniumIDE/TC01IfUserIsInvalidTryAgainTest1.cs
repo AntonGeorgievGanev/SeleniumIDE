@@ -15,13 +15,14 @@ using NUnit.Framework;
 public class TC01IfUserIsInvalidTryAgainTest
 {
     private IWebDriver driver;
+    private ChromeOptions options;
     public IDictionary<string, object> vars { get; private set; }
     private IJavaScriptExecutor js;
 
     [SetUp]
     public void SetUp()
     {
-        ChromeOptions options = new ChromeOptions();
+        options = new ChromeOptions();
         options.AddArguments("headless");
         options.AddArguments("no-sandbox");
         options.AddArguments("disable-dev-shm-usage");
